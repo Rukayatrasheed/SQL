@@ -1,2 +1,2 @@
 # SQL
-Hey there! in this repository, I have all my SQL projects work including my SQL scripts.
+Hey there! In this repository,  I will be walking you through all my SQL project work including SQL scripts & queries i did on personal tracks.
